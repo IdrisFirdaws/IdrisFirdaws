@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @IdrisFirdaws
+- i'm skilled in HTML, CSS, JavaScript, React, Bootstrap and Sass.
 - 👀 I’m interested in coding, food, and nature 
 - 🌱 I’m currently learning WordPress 
 - 💞️ I’m holding an online coding series on twitter, Instagram, Facebook and LinkedIn 
